@@ -1,0 +1,1 @@
+school_data/data/*.dat filter=lfs diff=lfs merge=lfs -text
